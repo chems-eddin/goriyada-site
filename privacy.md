@@ -8,7 +8,7 @@ permalink: /privacy/
 
 ## Qui est responsable
 
-L'éditeur de l'application Go Riyada (dont le nom figure sur sa fiche de l'App Store), joignable à **[contact@monvocabulary.com](mailto:contact@monvocabulary.com)**.
+chems-eddin sabri, éditeur de l'application Go Riyada, joignable à **[contact@monvocabulary.com](mailto:contact@monvocabulary.com)**.
 
 ## Ce que Go Riyada collecte
 
